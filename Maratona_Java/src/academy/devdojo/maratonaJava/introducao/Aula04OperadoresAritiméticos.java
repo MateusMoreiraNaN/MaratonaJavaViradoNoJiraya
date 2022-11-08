@@ -52,13 +52,19 @@ public class Aula04OperadoresAritiméticos {
 
         //Atribuição
         // = += -= *= /= %=
-
         double bonus = 1000;
 
         bonus += 1000;
 
         System.out.println(bonus);
 
+        int contador = 0;
+        contador += 1;
+        contador++;
+        contador--;
+        ++contador;
+        --contador;
 
+        System.out.println(contador);
     }
 }
