@@ -1,6 +1,6 @@
 package academy.devdojo.maratonaJava.introducao;
 
-public class Aula05EstruturasCondicionais03TabelaVerdade {
+public class Aula05EstruturasCondicionais04 {
     public static void main(String[] args) {
 
         System.out.println("-----------------------");
