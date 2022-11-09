@@ -36,5 +36,15 @@ public class Aula06EstruturasDeRepeticao01 {
         for(soma=0; soma <= 10; soma++){
             System.out.println("For2: " +soma);
         }
+
+        System.out.println(" ");
+
+        int DezEmDez = 0;
+
+        for(DezEmDez=5; DezEmDez <= 50; DezEmDez++){
+            System.out.println(DezEmDez);
+        }
+
+
     }
 }
